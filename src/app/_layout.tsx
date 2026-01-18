@@ -12,7 +12,7 @@ export default function Layout() {
         <Stack.Screen
           name="index"
           options={{
-            title: "Hello World",
+            title: "Apple Mac News",
           }}
         />
       </Stack>
